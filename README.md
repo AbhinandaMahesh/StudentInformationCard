@@ -21,9 +21,7 @@ StudentInformationCard/
 
 ⚙️ How to Run
 
-Clone the repository:
 
-git clone https://github.com/your-username/StudentInformationCard.git
 
 
 Open the project in your preferred IDE.
